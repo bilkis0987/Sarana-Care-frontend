@@ -1,0 +1,13 @@
+*   a5d1151 (main) Merge branch 'development' into main for production release v1
+|\  
+| * 5b1e982 (HEAD -> development) feat(integration): finalisasi integrasi api dengan backend
+| *   d9799c2 Merge branch 'feature/pages-routing' into development
+| |\  
+| | * 8fa9344 (feature/pages-routing) feat(pages): implementasi routing dan halaman utama aplikasi
+| |/  
+| * 35d270c chore(setup): konfigurasi environment
+| | * 79051f7 (feature/ui-components) chore(setup): konfigurasi environment
+| |/  
+| * 511a587 chore(setup): setup struktur folder frontend
+|/  
+* 32b84e3 chore(setup): init repository
